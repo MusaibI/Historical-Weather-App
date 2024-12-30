@@ -1,3 +1,9 @@
+## Live Demo
+
+You can check out the live demo of the app here:
+
+[Live Demo](https://cute-dieffenbachia-6075db.netlify.app/)
+
 # Weather Data Visualization
 
 This is a React app that allows users to input weather data (latitude, longitude, start date, end date) and visualize the results through interactive charts and a paginated table. The weather data is displayed using line charts, making it easier to track trends over time.
